@@ -1,4 +1,10 @@
+/* Student Name: Ananthan Tharmavelautham
+Student #:301175762
+Date: 06/23/2021
+File Name: COMP229 - midterm
+*/
 {
+
   "name": "comp229-m2021-midterm-301175762",
   "version": "0.0.3",
   "private": true,
@@ -53,7 +59,7 @@
     "ExpressJS",
     "EJS"
   ],
-  "author": "Ananthan",
+  "author": "Ananthan Tharmavelautham",
   "license": "ISC",
   "bugs": {
     "url": ""
